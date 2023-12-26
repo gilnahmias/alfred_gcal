@@ -15,7 +15,7 @@ enable APIs: people, calendar
 _______
 
 ```
-          Script Filter                                         Script Filter
-python3 ./AlfredScheduleEvent.py "{query}"   -->   python3 ./AlfredScheduleEvent.py "{query}"
-       (input as {query})                                    (input as {query})
+             Script Filter                                               Script Filter
+python3 ./AlfredAutoCompleteContacts.py "{query}"    -->    python3 ./AlfredScheduleEvent.py "{query}"
+           (input as {query})                                           (input as {query})
 ```
