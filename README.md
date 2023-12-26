@@ -15,5 +15,6 @@ enable APIs: people, calendar
 _______
 
 ```
-AlfredAutoCompleteContacts.py --> AlfredScheduleEvent.py
+AlfredAutoCompleteContacts.py   -->   AlfredScheduleEvent.py
+   (input as {query})                   (input as {query})
 ```
