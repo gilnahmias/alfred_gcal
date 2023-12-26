@@ -10,3 +10,10 @@ pip install --target . --upgrade google-api-python-client google-auth-httplib2 g
 ```
 
 enable APIs: people, calendar
+
+
+_______
+
+```
+AlfredAutoCompleteContacts.py --> AlfredScheduleEvent.py
+```
