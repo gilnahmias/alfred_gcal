@@ -8,7 +8,7 @@ do prereqs https://developers.google.com/calendar/api/quickstart/python
 
 install python dependencies locally into the alfred's custom workflow folder (with `--target .`) by typing:
 ```
-pip install --target . --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip3 install --target . --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 ```
 
 [Enable google APIs](https://console.cloud.google.com/apis/library): people, calendar
