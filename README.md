@@ -2,6 +2,8 @@ in alfred, create a new custom workflow.
 
 open the custom workflow folder in terminal (do to so, right click on the custom workflow name in alfted. then choose "open in terminal")
 
+clone this git repo into the newly created folder
+
 do prereqs https://developers.google.com/calendar/api/quickstart/python
 
 install locally into the alfred's customm workflow folder (with `--target .`)
