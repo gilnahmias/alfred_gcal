@@ -11,7 +11,7 @@ install python dependencies locally into the alfred's custom workflow folder (wi
 pip install --target . --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 ```
 
-enable APIs: people, calendar
+[Enable google APIs](https://console.cloud.google.com/apis/library): people, calendar
 
 
 _______
