@@ -6,7 +6,7 @@ clone this git repo into the newly created folder
 
 do prereqs https://developers.google.com/calendar/api/quickstart/python
 
-install locally into the alfred's customm workflow folder (with `--target .`)
+install python dependencies locally into the alfred's custom workflow folder (with `--target .`) by typing:
 ```
 pip install --target . --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 ```
